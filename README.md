@@ -7,4 +7,4 @@ Includes:
 - [nodemon](https://nodemon.io/) for automatic reload
 - [dotenv](https://www.npmjs.com/package/dotenv) for secrets
 
-To start, `npm install`, then `npm run start:watch`
+To start, `npm install`, then `npm run start`
